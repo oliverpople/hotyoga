@@ -1027,7 +1027,8 @@ section
 }
 .cta_buttons .cta_button:not(:last-child)
 {
-	margin-right: 18px;
+	margin-right: 9px;
+	margin-left: 9px;
 }
 
 /*********************************
