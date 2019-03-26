@@ -858,7 +858,6 @@ section
 
 .intro
 {
-
 }
 .intro_boxes_wrap
 {
@@ -868,6 +867,7 @@ section
 {
 	width: 100%;
 	height: 498px;
+
 }
 .intro_box
 {
@@ -875,17 +875,22 @@ section
 	height: 100%;
 	padding-left: 75px;
 	padding-right: 75px;
+	padding-top: 37.5px;
+	padding-bottom: 37.5px;
 }
 .intro_box:first-child
 {
+	height: 100%;
 	background: #190a49;
 }
 .intro_box:nth-child(2)
 {
+	height: 100%;
 	background: #3c098d;
 }
 .intro_box:nth-child(3)
 {
+	height: 100%;
 	background: #ff0e3b;
 }
 .intro_box_icon
